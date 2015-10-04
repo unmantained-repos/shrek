@@ -3,6 +3,12 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/parro-it/Desktop/repos/energy"
+		},
+		{
+			"path": "/home/parro-it/Desktop/repos/esenv"
 		}
 	]
 }

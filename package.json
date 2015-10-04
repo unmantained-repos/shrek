@@ -28,8 +28,8 @@
     "stage": 4
   },
   "devDependencies": {},
-  "install-this-global-to-develop": {
-    "esenv": "^1.1.0"
+  "install-this-globally-to-develop": {
+    "esenv": ">1.0.0"
   },
   "license": "MIT"
 }

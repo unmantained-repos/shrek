@@ -1,0 +1,34 @@
+{
+  "name": "shrek",
+  "description": "",
+  "repository": "https://github.com/parro-it/shrek.git",
+  "bugs": {
+    "url": "https://github.com/parro-it/shrek/issues"
+  },
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "engines" : { "node" : ">=4.1" },
+  "author": "parro-it",
+  "scripts": {
+
+    "test": "test-node",
+    "debug": "debug",
+    "cover": "cover-node",
+    "watch": "watch-node",
+    "release-minor": "release-minor",
+    "release-patch": "release-patch",
+    "lint": "lint",
+    "prepublish": "check"
+
+  },
+  "eslintConfig": {
+    "extends": "devenv"
+  },
+  "babel": {
+    "stage": 4
+  },
+
+  "peerDependencies": {
+    "esenv": "^1.1.0"
+  }
+}

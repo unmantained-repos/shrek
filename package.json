@@ -5,7 +5,7 @@
   "bugs": {
     "url": "https://github.com/parro-it/shrek/issues"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "src/index.js",
   "engines": {
     "node": ">=4.1"

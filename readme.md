@@ -27,3 +27,15 @@ npm install --save shrek
 ## Credits
 
 ## License
+The MIT License (MIT)
+
+Copyright (c) 2015 Andrea Parodi
+
+
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Andrea Parodi
+
+
+

@@ -10,6 +10,7 @@
 [![Tests coverage](https://img.shields.io/codeclimate/coverage/github/parro-it/shrek.svg)](https://codeclimate.com/github/parro-it/shrek)
 [![Dependencies status](https://img.shields.io/requires/github/parro-it/shrek.svg)](https://requires.io/github/parro-it/shrek/requirements/?branch=master)
 
+
 ## Installation
 
 ```bash

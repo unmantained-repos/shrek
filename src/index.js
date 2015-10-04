@@ -1,3 +1,3 @@
-module.exports = function test4() {
-  return Promise.resolve(42);
+module.exports = function test() {
+  return Promise.resolve(43);
 };

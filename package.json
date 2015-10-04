@@ -27,7 +27,9 @@
   "babel": {
     "stage": 4
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "tape-async": "^1.0.2"
+  },
   "install-this-globally-to-develop": {
     "esenv": ">1.0.0"
   },
